@@ -1,6 +1,6 @@
 import './style.css'; 
 
-function Form() {
+function Form(): JSX.Element {
 
     const movie = {
         id: 1,
