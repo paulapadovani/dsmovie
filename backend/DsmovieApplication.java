@@ -1,4 +1,3 @@
-package com.devsuperior.dsmovie;
 
 
 import org.springframework.boot.SpringApplication;
